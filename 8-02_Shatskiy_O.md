@@ -31,6 +31,7 @@
 ---
 
 ### Ответ 1
+
 ![alt text](https://github.com/shatskiy-O/homeworks/blob/main/images/1.png)
 ![alt text](https://github.com/shatskiy-O/homeworks/blob/main/images/2.png)
 ![alt text](https://github.com/shatskiy-O/homeworks/blob/main/images/3.png)
@@ -45,6 +46,13 @@
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
 
 ---
+
+### Ответ 2
+
+![alt text](https://github.com/shatskiy-O/homeworks/blob/main/images/4.png)
+![alt text](https://github.com/shatskiy-O/homeworks/blob/main/images/5.png)
+![alt text](https://github.com/shatskiy-O/homeworks/blob/main/images/6.png)
+
 
 ### Задание 3
 
