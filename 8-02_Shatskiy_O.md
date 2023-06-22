@@ -66,6 +66,13 @@
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
 
 ---
+
+### Ответ 3
+
+![alt text](https://github.com/shatskiy-O/homeworks/blob/main/images/7.png)
+![alt text](https://github.com/shatskiy-O/homeworks/blob/main/images/8.png)
+![alt text](https://github.com/shatskiy-O/homeworks/blob/main/images/9.png)
+
 ## Дополнительные задания* (со звёздочкой)
 
 Их выполнение необязательное и не влияет на получение зачёта по домашнему заданию. Можете их решить, если хотите лучше разобраться в материале.
