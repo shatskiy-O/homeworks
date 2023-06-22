@@ -86,3 +86,9 @@
 Подсказка: используйте переменную BUILD_NUMBER.
 
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
+
+### Ответ 4*
+
+![alt text](https://github.com/shatskiy-O/homeworks/blob/main/images/10.png)
+![alt text](https://github.com/shatskiy-O/homeworks/blob/main/images/11.png)
+![alt text](https://github.com/shatskiy-O/homeworks/blob/main/images/12.png)
