@@ -92,3 +92,30 @@
 ![alt text](https://github.com/shatskiy-O/homeworks/blob/main/images/10.png)
 ![alt text](https://github.com/shatskiy-O/homeworks/blob/main/images/11.png)
 ![alt text](https://github.com/shatskiy-O/homeworks/blob/main/images/12.png)
+
+
+pipeline { 
+    agent any 
+    stages { 
+        stage('Git') {   
+            steps {
+                git branch: 'main', url: 'https://github.com/netology-code/sdvps-materials.git'
+            }
+        } 
+        stage('Test') {   
+            steps {   
+                sh '/usr/local/go/bin/go test .'
+            }
+        }
+        stage('Build') {   
+            steps {   
+                sh "/usr/local/go/bin/go build -o sdvps-materials-\${BUILD_NUMBER} ."
+            }
+        }
+        stage('Push') {   
+            steps {   
+               sh "curl -u admin:Teremok2011 http://158.160.97.56:8081/repository/tor/ --upload-file sdvps-materials-\${BUILD_NUMBER} -v"
+            }
+        }
+    }
+}
